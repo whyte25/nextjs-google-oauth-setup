@@ -1,4 +1,7 @@
-# README: Google OAuth Integration in Next.js with NextAuth
+markdown
+Copy code
+
+# Google OAuth Integration in Next.js with NextAuth
 
 ## Dependencies
 
@@ -220,4 +223,5 @@ Customization
 Feel free to modify the code to suit your own scenario and setup. Replace placeholder paths, endpoints, and any specific logic to match your application's requirements.
 
 By following these steps, you can integrate Google OAuth into your Next.js application, manage authentication state with cookies, and protect your routes using middleware.
+
 ```
